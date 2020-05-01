@@ -34,7 +34,7 @@ makeCacheMatrix <- function(x = matrix()) {
   
   ## set matrix
   set <- function( matrix ) {
-    m <<- matrix
+    m <<- matrix 
     i <<- NULL
   }
   
